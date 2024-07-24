@@ -7,4 +7,4 @@ I am in plan of maintaining a dairy kind of thing where you can find the daily u
 
 DAY_1
 
-I found the library called Vedicpy. This might help us do our very easy way. I'm process of understanding how this tool/library works. Fortuanately this an open source project so we are lucky to go through the code and understand what exactly going on. If you are interested in reading the documentation [here](https://vedicpy.readthedocs.io/en/latest/). 
+I found a library called Vedicpy. This might help us perform our project bit easy. I'm in process of understanding how this tool/library works. Fortuanately this an open source project so we are lucky to go through the code and understand what exactly going on. If you are interested in reading the documentation [here](https://vedicpy.readthedocs.io/en/latest/). 
